@@ -1,0 +1,16 @@
+table{
+    width:700px;
+    margin:auto;
+    text-align:left;
+    margin-top:40px;
+    font-family:Arial;
+    color:black;
+
+}
+
+table, tr, th{
+    border: 2px solid black;
+    border-collapse:collapse;
+    padding:20px;
+    font-size:13px;
+}
